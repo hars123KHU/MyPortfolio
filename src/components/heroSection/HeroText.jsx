@@ -41,7 +41,7 @@ const HeroText = () => {
         className="w-full flex md:justify-start justify-center mt-6"
       >
         <a
-          href="../public/resume/resum_h.pdf"
+          href="../resume/resum_h.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="border border-rosequartz rounded-full py-2 px-4 text-lg flex items-center justify-center hover:bg-champagnegold transition-all duration-500 cursor-pointer text-cream hover:text-deepnavy"
