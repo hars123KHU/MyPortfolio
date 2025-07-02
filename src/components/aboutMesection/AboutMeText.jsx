@@ -22,9 +22,6 @@ const AboutMeText = () => {
         you're looking for a developer who thinks in algorithms, designs with
         heart, and delivers with fire—you just found her.
       </p>
-      <button className="border border-rosequartz rounded-full py-2 px-4 text-lg flex items-center mt-5 hover:bg-rosequartz transition-all duration-500 cursor-pointer  md:self-start sm:self-center text-cream hover:text-deepnavy">
-        My Projects
-      </button>
     </div>
   );
 };
